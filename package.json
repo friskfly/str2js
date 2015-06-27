@@ -1,0 +1,19 @@
+{
+  "name": "str2js",
+  "version": "1.0.0",
+  "description": "convert a plain text to a js string",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "js",
+    "string"
+  ],
+  "author": "friskfly",
+  "license": "MIT",
+  "devDependencies": {
+    "istanbul": "^0.3.16",
+    "mocha": "^2.2.5"
+  }
+}
