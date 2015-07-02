@@ -2,7 +2,7 @@ var str2js = require('../')
 var assert = require('assert')
 var fs = require('fs')
 describe('str2js',function(){
-  it('should thorw error when passed not string type',function(){
+  it('should throw error when passed not string type',function(){
     var error
     try{
       str2js()
